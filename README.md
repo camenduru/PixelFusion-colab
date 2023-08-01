@@ -9,7 +9,7 @@
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/PixelFusion-colab/blob/main/PixelFusion_colab.ipynb) | PixelFusion_colab
 
 ## Main Repo
+https://huggingface.co/spaces/0xSynapse/PixelFusion/tree/main
 
-## Paper
 
 ## Output
