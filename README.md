@@ -12,3 +12,4 @@
 https://huggingface.co/spaces/0xSynapse/PixelFusion/tree/main
 
 ## Output
+![Screenshot 2023-08-02 031627](https://github.com/camenduru/PixelFusion-colab/assets/54370274/0c4d97a1-70dd-4fe1-b261-47cdc2e6d51b)
